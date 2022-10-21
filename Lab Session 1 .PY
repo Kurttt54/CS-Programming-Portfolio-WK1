@@ -1,12 +1,15 @@
 
 # task 1
 print ("Hello World")
+
 # task 2
 print ("Hello Kurt")
+
 # task 3
 Celcius = 38.4
 Fahrenheit = Celcius * 1.8 + 32
 print ("The Temperature in Yorkshire is", Celcius, "C or", Fahrenheit, "F")
+
 # task 4
 BattingAverage = 48426 / (1014 -162 )
 print (" Batting Average is ", BattingAverage )
